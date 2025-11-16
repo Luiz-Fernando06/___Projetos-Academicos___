@@ -1,2 +1,2 @@
-# ___Projetos-Acad-micos___
+# ___Projetos-Academicos___
 Projetos para fins acadêmicos
